@@ -65,7 +65,8 @@ There is a navbar within this header element, the navbar appears in a horizontal
 explore and easily showcasing what is available and what this website is about. This makes all elements of the website
 easily discoverable and aims to ensure the user can get to their desired destination within 3 clicks. The Header section also 
 contains social media icons a very important element of all food related website, this encourages social media following and 
-inturn icreses traffic to the website. 
+inturn icreses traffic to the website. (Took some time to place the social media icons where I wanted then had to research positioning 
+within the jumbotron)
 
 The colouring, theme and terminology used throughout the website is consitent and should aim to act as a fingerprint for 
 the website. The site owner aims to use the colours, themes and temminology as a fingerprint, returning vsitors know 
@@ -109,7 +110,7 @@ note: insert colours in here
 
 #FCE4D8
 #F8E9E2;
-
+#FFCBA4
 
 #### Typography
 
@@ -137,7 +138,14 @@ Source Sans Pro paired was chosen and with Lato as per the popular pairings sect
 
 ## Testing
 
-* Cannot get the prettier function to work updated it but still not working. Checked on Slack could not find the answer. Will ask a Tutor tomorrow. 
+* Cannot get the prettier function to work updated it but still not working. Checked on Slack appears there is an issue with it (06/12/2020). 
+
+* When checking the footer to ensure that it was responsive on all devices, I noted that the dots between the website links 
+did not look streamlined on mobile devices. Need to potentially create a media query for this to 
+ensure that it has a streamlined appearance. Also potentially will remove the social media links in the header on mobile devices to ensure 
+it doesnt look too busy. 
+Galaxy Fold, Surface Duo,Iphone X, Iphone 6,7,8, Iphone 5, Pixel 2xl, Pixel 2, Galaxy S5, Moto 4 - both
+
 
 ## Deployment
 
@@ -146,6 +154,12 @@ Source Sans Pro paired was chosen and with Lato as per the popular pairings sect
 * Information in the Structure Plane has been inspired by [Code Institure](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/f6e2d80e148e43ce8ea42f85e00b7adc/?child=first)
 
 * <span>Photo by <a href="https://unsplash.com/@mslucyclaire?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lucy-Claire</a> on <a href="https://unsplash.com/s/photos/peaches?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+*  Used the information on CSS Layout - The Position Property [W3 Schools](https://www.w3schools.com/css/css_positioning.asp) to assist with the positioning of the social media icons in the header
+
+* Used the information on CSS word-spacing property [W3 Schools](https://www.w3schools.com/cssref/pr_text_word-spacing.asp*/) to assist with word spacing 
+
+* Dots in teh footer between links was created using a snippet of code from [W3 Schools](https://www.w3schools.com/howto/howto_css_circles.asp)
 
 ## Content
 
