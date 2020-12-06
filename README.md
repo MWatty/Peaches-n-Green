@@ -1,45 +1,154 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# PEACHES & GREEN
 
-Welcome USER_NAME,
+Milestone Project 1 - User Centric Frontend - Code Institute
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Peaches & Green is a vegetarian recipe website with the aim of inspiring a bit more creativity when it comes
+to vegetarian cooking in the home. This website will appeal to all home cooks and particularly those that
+are curious and usure about where to begin when it comes to vegetarian cooking. Simple, easy, everday
+vegetarian cooking for vegetarians and the vegetarian curious.
 
-## Gitpod Reminders
+## Demo
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+A live demo can be found here [here] (to be completed)
 
-`python3 -m http.server`
+## UX
 
-A blue button should appear to click: *Make Public*,
+### Strategy
 
-Another blue button should appear to click: *Open Browser*.
+This website is for all homecooks that are looking to add simple, easy, affordable plant based meals to their diet.
+The website aims to use ingredients that most people have in their homes, ingredients that are affordable and
+ingredients that arent too daunting when delving into the vegetarain meal world. This is going to be achieved by
+having limited ingredients, beautiful images, takes on traditionally meat based classics and most of all delicious
+simple recipes to follow. Visitors will want to come back time and time again to find out what else
+they can create in the Kitchen and what new recipes are on offer.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### User Stories
 
-A blue button should appear to click: *Make Public*,
+#### First time visitor goals
 
-Another blue button should appear to click: *Open Browser*.
+- As a user I want to find simple vegetarian recipes
+- As a user I want to be able to contact the site owner so I can ask questions about the recipes
+- As a user I want to easily navigate and quickly find what I am looking for
+- As a user I want to find the website attractive and informative
+- As a user I want a visual aid as to what the recipe should look like
+- As a user I would like to see what socials media platforms the business uses
+- As a user I want the website to be responsive on whichever device I'm viewing it on
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+#### Site owner goals
 
-## Updates Since The Instructional Video
+- As the owner of the site I want people to find the recipes they are looking for easily
+- As the owner of the site I want visitors to feel inspired to try vegetarian food
+- As the owner of the site I want new visitors to easily navigate the site across all pages
+- As the owner I want visitors to satisfactorily view the site on a number of devices without impacting on the quality of the site
+- As the owner of the site I want to encourage more followers through social media using our socials media links that are available
+- As the owner of the site I want people to feel that they can contact me and that I am accessible
+- As the owner of the site I want people to feel that the recipes are easy to follow
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### Scope
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+For users, I wanted to provide a wesbite that is welcoming and unambigious. From the moment 
+the user visits the website it is clear that this is a vegetarain website with lots of 
+delicious recipes to choose from. The user will also have the option to contact me should 
+they wish to do so and this can be done using a form or one of the social media platfornms. 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+Site Constraints: given the site is constructed with HTML and CSS only I would say that in the interactivity of the 
+website could be improved with the use of Javascript to make the website more engaging for visitors. 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+### Structure
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+In order to meet the expectation of "Peaches & Green" users the wesbite aims to stick to convention in
+its layout and architecture. 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+There is a Header section  on each page, with a large "Peaches & Green" logo. Clicking on this logo will 
+take the user back to the landing page of the wesbite and this is as above an expected and understood convention. 
+There is a navbar within this header element, the navbar appears in a horizontal fashion, encouraging the user to 
+explore and easily showcasing what is available and what this website is about. This makes all elements of the website
+easily discoverable and aims to ensure the user can get to their desired destination within 3 clicks. The Header section also 
+contains social media icons a very important element of all food related website, this encourages social media following and 
+inturn icreses traffic to the website. 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+The colouring, theme and terminology used throughout the website is consitent and should aim to act as a fingerprint for 
+the website. The site owner aims to use the colours, themes and temminology as a fingerprint, returning vsitors know 
+what to expect and feel a sense of comfort when browsing the website. 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+The website is interactive and provided elements of feedback to the user. This is evident in the use of the hover functionality 
+for links and they changind of button colors when a form is submitted. The form will require users to input the correct information 
+and they will be notified if the information is incorrect. 
 
---------
+The architecture of the website has been considered to allow for ease of movemnent through the content. The structure will allow 
+the user to navigate easily and will encourage the user to browse through and learn more about the website. 
 
-Happy coding!
+Information in this section has been inspired by the information on [Code Institure](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/f6e2d80e148e43ce8ea42f85e00b7adc/?child=first)
+
+### Skeleton
+
+All wireframes were created using [Balsamiq](http://balsamiq.com)
+
+Please find full PDF versions of wireframes and sketches below :
+
+[Mobile Wireframe](https://github.com/MWatty/Peaches-and-Green/blob/master/wireframes/Mobile%20Wireframe.pdf)
+
+[Tablet Wireframe](https://github.com/MWatty/Peaches-and-Green/blob/master/wireframes/Tablet%20Wireframe%20.pdf)
+
+[Desktop Wireframe](https://github.com/MWatty/Peaches-and-Green/blob/master/wireframes/Desktop%20Wireframe%20.pdf)
+
+### Surface
+
+#### Design
+
+
+#### Colour
+
+A neutral palette of Pale Peaches, Greys, White and Black will be used for this website. The use of such colours is 
+to allow the food photography to be the main point of colour, also the pale peach marries well with the theme 
+of "Peaches & Green". 
+
+When choosing the colour I used the [Colour picker tool](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)
+
+note: insert colours in here 
+
+#FCE4D8
+#F8E9E2;
+
+
+#### Typography
+
+Source Sans Pro paired was chosen and with Lato as per the popular pairings section within [google fonts](https://fonts.google.com/specimen/Source+Sans+Pro?query=source+san&sidebar.open=true&selection.family=Lato|Source+Sans+Pro:wght@300#pairings) 
+* font-family: 'Source Sans Pro', sans-serif;
+* font-family: 'Lato', sans-serif;
+
+
+#### Images
+
+#### Final project variations
+
+## Features
+
+### Existing Features
+
+### Features left to implement
+
+## Technologies Used
+
+* HTML5
+* Bootstrap 4.5.2
+* Gitpod
+* GitHub 
+
+## Testing
+
+* Cannot get the prettier function to work updated it but still not working. Checked on Slack could not find the answer. Will ask a Tutor tomorrow. 
+
+## Deployment
+
+## Credits
+
+* Information in the Structure Plane has been inspired by [Code Institure](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/f6e2d80e148e43ce8ea42f85e00b7adc/?child=first)
+
+* <span>Photo by <a href="https://unsplash.com/@mslucyclaire?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lucy-Claire</a> on <a href="https://unsplash.com/s/photos/peaches?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+## Content
+
+## Media
+
+## Acknowledgements
