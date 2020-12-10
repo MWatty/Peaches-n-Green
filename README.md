@@ -161,6 +161,15 @@ Galaxy Fold, Surface Duo,Iphone X, Iphone 6,7,8, Iphone 5, Pixel 2xl, Pixel 2, G
 
 * Dots in teh footer between links was created using a snippet of code from [W3 Schools](https://www.w3schools.com/howto/howto_css_circles.asp)
 
+* <span>Photo by <a href="https://unsplash.com/@maxniceman?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Max Nayman</a> on <a href="https://unsplash.com/s/photos/fruit-crumble?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+* <span>Photo by <a href="https://unsplash.com/@cys_escapes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Cyrus Crossan</a> on <a href="https://unsplash.com/s/photos/brussel-sprouts?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+* <span>Photo by <a href="https://unsplash.com/@sweetpagesco?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sarah Brown</a> on <a href="https://unsplash.com/s/photos/peaches?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+* https://www.pexels.com/photo/appetizer-bowls-cream-creamy-262947/ 
+
+*  Found a command to use to blur area behind text on the carousel, this was found on [Grepper](https://www.codegrepper.com/code-examples/swift/blur+behind+text+css) 
 ## Content
 
 ## Media
