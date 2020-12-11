@@ -169,6 +169,8 @@ Galaxy Fold, Surface Duo,Iphone X, Iphone 6,7,8, Iphone 5, Pixel 2xl, Pixel 2, G
 
 * https://www.pexels.com/photo/appetizer-bowls-cream-creamy-262947/ 
 
+* <span>Photo by <a href="https://unsplash.com/@duffuff?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joseph Young</a> on <a href="https://unsplash.com/s/photos/woman-behind?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
 *  Found a command to use to blur area behind text on the carousel, this was found on [Grepper](https://www.codegrepper.com/code-examples/swift/blur+behind+text+css) 
 ## Content
 
