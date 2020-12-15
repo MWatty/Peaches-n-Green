@@ -139,6 +139,10 @@ Source Sans Pro paired was chosen and with Lato as per the popular pairings sect
 ## Testing
 
 * Cannot get the prettier function to work updated it but still not working. Checked on Slack appears there is an issue with it (06/12/2020). 
+Working again as of 15th December 2020 
+
+* When testing the Header Section and its responsiveness, I noted that I was taking a desktop first approach in terms of design and 
+therefore re-assessed the work and amended it to reflect my wireframes. 
 
 * When checking the footer to ensure that it was responsive on all devices, I noted that the dots between the website links 
 did not look streamlined on mobile devices. Need to potentially create a media query for this to 
@@ -178,6 +182,8 @@ Galaxy Fold, Surface Duo,Iphone X, Iphone 6,7,8, Iphone 5, Pixel 2xl, Pixel 2, G
 * <span>Photo by <a href="https://unsplash.com/@uniqueton?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Anton</a> on <a href="https://unsplash.com/s/photos/falafel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 * <span>Photo by <a href="https://unsplash.com/@iavnt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ivan Torres</a> on <a href="https://unsplash.com/s/photos/pizza?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+* Used and amended a snippet of code from [W3 Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) to remove social media icons on smaller screens
 ## Content
 
 ## Media

@@ -1,6 +1,6 @@
-/*header*/
+/*HEADER*/
 
-.jumbotron{
+/*.jumbotron{
     background: transparent;
 }
 
@@ -18,7 +18,7 @@
     font-size: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
-}
+}*/
 
 a{
     color: #505050;
@@ -35,7 +35,7 @@ a:hover {
 }
 
 /*Used the information on CSS Layout - The Position Property [W3 Schools](https://www.w3schools.com/css/css_positioning.asp) to assist with the positioning of the social media icons in the header*/
-   .social-media-icons{
+  /* .social-media-icons{
        position:absolute;
        top:20px;
        right:70px;
@@ -55,14 +55,31 @@ a:hover {
     
 }
 
-#navbarNav {
-    background-color: #F8E9E2;
-    justify-content: center;
+/*snippet of code below taken and amended from w3 schools - hide elements with media queries*/
+/*@media only screen and (max-width: 600px) {
+  .social-media-icons {
+    display: none;
+  }
+}*/
+
+.container-header {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
+
+.navbar {
+   background-color: #F8E9E2;
+}
+
+.navbar-brand {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+}
+
 
 .nav-link {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 20px; 
+    font-size: 17px; 
     font-weight:bold;
     color:#505050;
 }
@@ -75,6 +92,7 @@ a:hover {
 .navbar-toggler {
     background-color: #F8E9E2;
 }
+
 
 /*footer*/
 
@@ -166,6 +184,8 @@ a:hover {
 /*SUBSCRIBE SECTION*/
 
 .subscribe-container {
+    
+   
     margin-top: 25px;
     margin-bottom: 55px;
     background-color: #F8E9E2;
@@ -209,3 +229,33 @@ a:hover {
 .container-cards-two {
     margin-bottom: 50px;
 }
+
+.card-title {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+.card-footer {
+    background-color:#F8E9E2;
+    text-align: center;
+     font-family: 'Lato', sans-serif;
+}
+
+/*CONTACT ME FORM*/
+
+.contact-me-title {
+    text-align: center;
+     font-family: 'Source Sans Pro', sans-serif;
+     margin-bottom: 20px;
+}
+
+.submit-button {
+    text-align: center;
+}
+
+
+
+
+
+
+
