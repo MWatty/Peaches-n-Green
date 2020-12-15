@@ -78,9 +78,7 @@ a:hover {
 
 /*footer*/
 
-footer {
-    height: 300px;
-}
+
 
 /* used this to assist with word spacing https://www.w3schools.com/cssref/pr_text_word-spacing.asp*/ 
 .links {
@@ -202,3 +200,12 @@ footer {
     color:#505050;
 }
 
+/*CARDS*/
+
+.container-cards {
+    margin-bottom: 50px;
+}
+
+.container-cards-two {
+    margin-bottom: 50px;
+}
