@@ -67,13 +67,13 @@ a:hover {
     margin-bottom: 20px;
 }
 
-.navbar {
-   background-color: #F8E9E2;
-}
+
 
 .navbar-brand {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 30px;
+    font-weight: bold;
+    text-shadow: 2px 2px #F8E9E2;
 }
 
 
@@ -90,21 +90,21 @@ a:hover {
 }
 
 .navbar-toggler {
-    background-color: #F8E9E2;
+  border: transparent;
 }
 
 
-/*footer*/
-
-
+/*FOOTER*/
 
 /* used this to assist with word spacing https://www.w3schools.com/cssref/pr_text_word-spacing.asp*/ 
+
+
+
 .links {
-    text-align:center;
+    text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
     word-spacing: 55px;
-
 }
 
 .links li {
@@ -139,6 +139,24 @@ a:hover {
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .dot {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .links{
+    word-spacing: 10px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .socials{
+    word-spacing: 5px;
+  }
 }
 
 /*need to possibly insert a media query re the dots as it doesnt look not look neat on some devices.*/
@@ -184,8 +202,6 @@ a:hover {
 /*SUBSCRIBE SECTION*/
 
 .subscribe-container {
-    
-   
     margin-top: 25px;
     margin-bottom: 55px;
     background-color: #F8E9E2;
@@ -218,7 +234,10 @@ a:hover {
 .btn {
     background-color: #FFCBA4;
     color:#505050;
+    font-family: 'Source Sans Pro', sans-serif;
 }
+
+
 
 /*CARDS*/
 
@@ -245,17 +264,80 @@ a:hover {
 
 .contact-me-title {
     text-align: center;
-     font-family: 'Source Sans Pro', sans-serif;
-     margin-bottom: 20px;
+    color: #505050 ;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 35px;
+    margin-bottom: 25px;
+     backdrop-filter: blur(8px);
+    font-weight: bold;
 }
 
 .submit-button {
     text-align: center;
+     font-family: 'Source Sans Pro', sans-serif;
 }
 
+.btn{   
+    border: #505050;
+    background-color: #505050;
+    color: #FFCBA4;
+}
 
+.btn:hover {
+background-color: #FFCBA4;
+color: #505050 ;
+}
 
+.container-contact-form {
+  background-image: url('../../assets/images/wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
+.form-group {
+    color: #505050 ;
+    backdrop-filter: blur(8px);
+    text-align: center;
+}
 
+/* PANTRY ESSENTIALS*/
+.container-pantry {
+    background-image: url(../../assets/images/peaches1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 
+.pantry-ess{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    border: transparent;
+   
+}
+/*used snippet of code and amended it from W3 Schools, Unordered lists without bullets https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_unordered_none */
+.pantry-list {
+    list-style-type: none;
+}
 
+.pantry-item {
+    text-align: right;
+    font-size: 20px;
+    font-weight:bold;
+    font-family: 'Lato', sans-serif;
+    line-height: 400%;
+}
+
+@media only screen and (max-width: 600px) {
+  .pantry-ess{
+   backdrop-filter: blur(6px);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .pantry-item{
+   backdrop-filter: blur(6px);
+  }
+}

@@ -106,8 +106,6 @@ of "Peaches & Green".
 
 When choosing the colour I used the [Colour picker tool](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)
 
-note: insert colours in here 
-
 #FCE4D8
 #F8E9E2;
 #FFCBA4
@@ -145,11 +143,23 @@ Working again as of 15th December 2020
 therefore re-assessed the work and amended it to reflect my wireframes. 
 
 * When checking the footer to ensure that it was responsive on all devices, I noted that the dots between the website links 
-did not look streamlined on mobile devices. Need to potentially create a media query for this to 
-ensure that it has a streamlined appearance. Also potentially will remove the social media links in the header on mobile devices to ensure 
-it doesnt look too busy. 
-Galaxy Fold, Surface Duo,Iphone X, Iphone 6,7,8, Iphone 5, Pixel 2xl, Pixel 2, Galaxy S5, Moto 4 - both
+did not look streamlined on mobile devices. I inserted a media query to remove the dots on all screen except desktop. I also 
+reduced the word spacing on smaller screens as I wanted to retain the inline look of the links on all devices. This was tested on 
+Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop
 
+* When testing the footer on various devices I also noted that as above when the decorative dots were removed the 
+social media icons looked to be too spaced out and didnt have the asthetic I was looking for, therefore I created a media query to 
+decrease the space between the social media icons and I believe this is more in line with the over asthetic of the page. This was tested on 
+Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop.
+
+* When testing the pantry page, I observed with the style of photograph used and with the peaches aligining to the left and 
+the text aliging to the right this was easily readable on larger screen given the neutral background, however on smaller devices
+a backdrop filter was required to blur so that users could continue to read the content. This was tested on 
+Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop.
+
+* When testing my contact page by entering dummy information. I noted that I had incorrectly put email in for the input type for 
+the enter your first and last name section. This was changed to text. I also noted that I had incorrectly placed the required format 
+for the text box in the wrong place. Both were amended and re-tested and appear to be working satisfactorily. 
 
 ## Deployment
 
@@ -184,6 +194,17 @@ Galaxy Fold, Surface Duo,Iphone X, Iphone 6,7,8, Iphone 5, Pixel 2xl, Pixel 2, G
 * <span>Photo by <a href="https://unsplash.com/@iavnt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ivan Torres</a> on <a href="https://unsplash.com/s/photos/pizza?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 * Used and amended a snippet of code from [W3 Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) to remove social media icons on smaller screens
+
+* <span>Photo by <a href="https://unsplash.com/@jaysoobs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jared Subia</a> on <a href="https://unsplash.com/s/photos/peach?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+* <span>Photo by <a href="https://unsplash.com/@thematteroffood?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">The Matter of Food</a> on <a href="https://unsplash.com/s/photos/peaches?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+* https://wallpaperaccess.com/peach-watercolor 
+
+* <span>Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/pantry?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+* *used snippet of code and amended it from W3 Schools, Unordered lists without bullets https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_unordered_none */
+
 ## Content
 
 ## Media
