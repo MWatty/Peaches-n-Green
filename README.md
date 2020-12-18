@@ -4,7 +4,7 @@ Milestone Project 1 - User Centric Frontend - Code Institute
 
 Peaches & Green is a vegetarian recipe website with the aim of inspiring a bit more creativity when it comes
 to vegetarian cooking in the home. This website will appeal to all home cooks and particularly those that
-are curious and usure about where to begin when it comes to vegetarian cooking. Simple, easy, everday
+are curious and unsure about where to begin when it comes to vegetarian cooking. Simple, easy, everday
 vegetarian cooking for vegetarians and the vegetarian curious.
 
 ## Demo
@@ -121,6 +121,10 @@ Source Sans Pro paired was chosen and with Lato as per the popular pairings sect
 
 #### Final project variations
 
+* On the essentials page I used a an image of peaches, and the peaches are aligned on this image to the left, therefore I aligned the text to the 
+right, this is contrary to what I had initially planned in my wireframes. The reason for this change is  this is more asthetically pleasing and 
+also makes and page more readable. On larger screen no background filter is required and on a smaller screen a blur is applied to make this more readable. 
+
 ## Features
 
 ### Existing Features
@@ -129,15 +133,18 @@ Source Sans Pro paired was chosen and with Lato as per the popular pairings sect
 
 ## Technologies Used
 
-* HTML5
-* Bootstrap 4.5.2
-* Gitpod
-* GitHub 
+* [HTML5](https://www.graycelltech.com/why-use-html-5/) was used as this is the latest Hypertext Markup Language and this is the standard language for describing the contents and appearance of Web Pages
+  All major browsers offer HTML5 support which makes it the newest technology used today. 
+
+* [CSS](https://www.w3schools.com/css/css_intro.asp) is used to define styles for web pages, including the design, layout and variations in display for different devices and screen sizes 
+
+* [Bootstrap-4.5.2](https://getbootstrap.com/) was used as this lends itself to quickly design and customize mobile first-sites
+
+* [Gitpod](https://gitpod.io) was used as this is an open source platform for automated and ready to code development environments that blends into your existing workflow
+
+* [GitHub](https://github.com) was used as a hosting platform for version control
 
 ## Testing
-
-* Cannot get the prettier function to work updated it but still not working. Checked on Slack appears there is an issue with it (06/12/2020). 
-Working again as of 15th December 2020 
 
 * When testing the Header Section and its responsiveness, I noted that I was taking a desktop first approach in terms of design and 
 therefore re-assessed the work and amended it to reflect my wireframes. 
@@ -161,19 +168,44 @@ Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, 
 the enter your first and last name section. This was changed to text. I also noted that I had incorrectly placed the required format 
 for the text box in the wrong place. Both were amended and re-tested and appear to be working satisfactorily. 
 
+* In order to ensure that my user stories were met, I amended the namde of the Pantry section in the navigation bar to Essentials. 
+As a user I feel this navigaiton link is more desirable and user focused. This will allow for someone that may be embarking on 
+making and creating their first vegetarian dishes to think what do I neeed to get started in the Kitchen. 
+
 ## Deployment
 
 ## Credits
 
 * Information in the Structure Plane has been inspired by [Code Institure](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/f6e2d80e148e43ce8ea42f85e00b7adc/?child=first)
 
-* <span>Photo by <a href="https://unsplash.com/@mslucyclaire?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lucy-Claire</a> on <a href="https://unsplash.com/s/photos/peaches?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-*  Used the information on CSS Layout - The Position Property [W3 Schools](https://www.w3schools.com/css/css_positioning.asp) to assist with the positioning of the social media icons in the header
-
 * Used the information on CSS word-spacing property [W3 Schools](https://www.w3schools.com/cssref/pr_text_word-spacing.asp*/) to assist with word spacing 
 
-* Dots in teh footer between links was created using a snippet of code from [W3 Schools](https://www.w3schools.com/howto/howto_css_circles.asp)
+* Dots in the footer were created using a snippet of code from [W3 Schools](https://www.w3schools.com/howto/howto_css_circles.asp)
+
+* Found a command to use to blur area behind text on the carousel, this was found on [Grepper](https://www.codegrepper.com/code-examples/swift/blur+behind+text+css) 
+
+* Used and amended a snippet of code from [W3 Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) to remove social media icons on smaller screens
+
+* Used snippet of code and amended it from [W3 Schools](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_unordered_none) to create an unordered list without bullet points
+
+## Content
+
+* All of the text used throughout the website is my own
+
+* Within this README.md file I quoted text from [Gray-Cell-Tech](https://www.graycelltech.com/why-use-html-5/) within the Technologies Used section
+
+* Within this README.md file I quoted text from [W3 Schools](https://www.w3schools.com/css/css_intro.asp) within the Technologies Used section
+
+* Within this README.md file I referenced text from [Get-Bootstrap]
+
+* Within this README.md file I quoted text from [Gitpod](https://www.gitpod.io/docs/) within the Technologies Used section
+
+
+## Media
+ 
+* The majority of photogpraphs used are from [Unsplash](https://unsplash.com/), links to specific photogrpahs below :
+
+* <span>Photo by <a href="https://unsplash.com/@mslucyclaire?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lucy-Claire</a> on <a href="https://unsplash.com/s/photos/peaches?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 * <span>Photo by <a href="https://unsplash.com/@maxniceman?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Max Nayman</a> on <a href="https://unsplash.com/s/photos/fruit-crumble?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
@@ -181,11 +213,7 @@ for the text box in the wrong place. Both were amended and re-tested and appear 
 
 * <span>Photo by <a href="https://unsplash.com/@sweetpagesco?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sarah Brown</a> on <a href="https://unsplash.com/s/photos/peaches?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-* https://www.pexels.com/photo/appetizer-bowls-cream-creamy-262947/ 
-
 * <span>Photo by <a href="https://unsplash.com/@duffuff?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joseph Young</a> on <a href="https://unsplash.com/s/photos/woman-behind?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-*  Found a command to use to blur area behind text on the carousel, this was found on [Grepper](https://www.codegrepper.com/code-examples/swift/blur+behind+text+css) 
 
 * <span>Photo by <a href="https://unsplash.com/@eaterscollective?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Eaters Collective</a> on <a href="https://unsplash.com/s/photos/food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
@@ -193,20 +221,16 @@ for the text box in the wrong place. Both were amended and re-tested and appear 
 
 * <span>Photo by <a href="https://unsplash.com/@iavnt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ivan Torres</a> on <a href="https://unsplash.com/s/photos/pizza?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-* Used and amended a snippet of code from [W3 Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) to remove social media icons on smaller screens
-
 * <span>Photo by <a href="https://unsplash.com/@jaysoobs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jared Subia</a> on <a href="https://unsplash.com/s/photos/peach?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 * <span>Photo by <a href="https://unsplash.com/@thematteroffood?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">The Matter of Food</a> on <a href="https://unsplash.com/s/photos/peaches?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-* https://wallpaperaccess.com/peach-watercolor 
-
 * <span>Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/pantry?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-* *used snippet of code and amended it from W3 Schools, Unordered lists without bullets https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_unordered_none */
+* A photograph was also taken from [Pexels](https://www.pexels.com/), click for the specific [photograph](https://www.pexels.com/photo/appetizer-bowls-cream-creamy-262947/)
 
-## Content
+* The wallpaper used for the Contact Form is from [Wall-Paper-Access](https://wallpaperaccess.com/), please click for direct access to the [wallpaper](https://wallpaperaccess.com/peach-watercolor) used
 
-## Media
+
 
 ## Acknowledgements
