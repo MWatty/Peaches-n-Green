@@ -211,6 +211,10 @@ for the text box in the wrong place. Both were amended and re-tested and appear 
 As a user I feel this navigaiton link is more desirable and user focused. This will allow for someone that may be embarking on 
 making and creating their first vegetarian dishes to think what do I neeed to get started in the Kitchen. 
 
+* All external links open in a seperate tab when clicked
+
+* All navigation links in both the Header and Footer are working correctly
+
 ## Deployment
 
 
