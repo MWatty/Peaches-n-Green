@@ -165,7 +165,9 @@ I believe this page answers this question.
 * Cookies Banner pop up, this should be added to ensure complaince with legislation relating to personal data and how 
 that data is managed  
 
-* Recipe review, this would allow users to provide feedback on the recipes, how they found the recipe and potentially showcase their own photogrpahs 
+* Recipe review, this would allow users to provide feedback on the recipes, how they found the recipe and potentially showcase their own photographs 
+
+* Contact form drop down menu text within this drop down should be centered in keeping with the overall theme of the form 
 
 
 ## Technologies Used
@@ -186,9 +188,14 @@ that data is managed
 ## Testing
 
 * When testing the Header Section and its responsiveness, I noted that I was taking a desktop first approach in terms of design and 
-therefore re-assessed the work and amended it to reflect my wireframes. 
+therefore re-assessed the work and amended it to reflect my wireframes and ensure that I was consistent in a mobile first approach
 
-* When checking the footer to ensure that it was responsive on all devices, I noted that the dots between the website links 
+* When testing the Header Section on the following devcices Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, 
+I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop. I noted that the burger bar moved underneath the title Peaches & Green on the Iphone5 / SE.
+ This is not the most user friendly and not pleasing to users. With this a media query specifically designed for the I-phone 5 was created and 
+the problem resolved
+
+* When testing the footer to ensure that it was responsive on all devices, I noted that the dots between the website links 
 did not look streamlined on mobile devices. I inserted a media query to remove the dots on all screen except desktop. I also 
 reduced the word spacing on smaller screens as I wanted to retain the inline look of the links on all devices. This was tested on 
 Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop
@@ -211,9 +218,20 @@ for the text box in the wrong place. Both were amended and re-tested and appear 
 As a user I feel this navigaiton link is more desirable and user focused. This will allow for someone that may be embarking on 
 making and creating their first vegetarian dishes to think what do I neeed to get started in the Kitchen. 
 
+* The background filter used to blur was not applied to the "10 essentials for your Kitchen Pantry" this was amended 
+and checked on all devices 
+
 * All external links open in a seperate tab when clicked
 
-* All navigation links in both the Header and Footer are working correctly
+* All navigation links in both the Header and Footer are working, I did note and amnded that facebook social media icon as this was 
+incorrectly going to pinterest
+
+* The text within the dietary preference option on the contact me form was not centered and therefore not streamlined with the 
+other input fields, this was amdended using a text-indent command, please see features left to implement on how to further 
+improve this feature 
+
+* The subscribe button aligns to the left on smaller screens, this was not in keeping with the submit button located just above 
+and was therefore amended to sit in the centre on smaller screens 
 
 ## Deployment
 
