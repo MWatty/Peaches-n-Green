@@ -183,7 +183,14 @@ a:hover {
     text-align: center;
 }
 
+.diet-option {
+    text-align: center;
+}
 
+
+#dietinput {
+    text-indent: 45%;
+}
 
 /*--------PANTRY ESSENTIALS----------*/
 
@@ -217,7 +224,6 @@ a:hover {
 
 /*--------FOOTER-----------*/
 
-/* used this to assist with word spacing https://www.w3schools.com/cssref/pr_text_word-spacing.asp*/ 
 .links {
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
