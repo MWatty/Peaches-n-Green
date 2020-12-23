@@ -222,6 +222,51 @@ a:hover {
 }
 
 
+/*------INDIVIDUAL RECIPES--------*/
+
+.recipe-title-container{
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.recipe-titles {
+    font-family: 'Source Sans Pro', sans-serif;   
+}
+
+.recipes-headings {
+      font-family: 'Source Sans Pro', sans-serif;
+      margin-bottom: 10px;
+}
+
+.recipe-ingredients-container {
+    margin-bottom: 25px;
+}
+
+.recipe-method-container {
+    margin-bottom: 25px;
+}
+
+.serving-col {
+    text-align: center;
+}
+
+.recipe-info-container {
+    background-color:#F8E9E2;
+    margin-bottom: 25px;
+}
+
+.serving-col {
+    border: 1px dashed #505050;
+    padding-top: 35px;
+    padding-bottom: 25px;
+}
+
+
+.fa-clock {
+    color: #505050;
+}
+
+
 /*--------FOOTER-----------*/
 
 .links {

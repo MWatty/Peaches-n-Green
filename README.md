@@ -253,7 +253,7 @@ and was therefore amended to sit in the centre on smaller screens
 
 ## Content
 
-* All of the text used throughout the website is my own
+* The ingredients and the method for the Tomato Soup were quoted directly [Cully & Sully](https://cullyandsully.com/node/298)
 
 * Within this README.md file I quoted text from [Gray-Cell-Tech](https://www.graycelltech.com/why-use-html-5/) within the Technologies Used section
 
