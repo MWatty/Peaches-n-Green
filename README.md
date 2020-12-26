@@ -195,18 +195,7 @@ therefore re-assessed the work and amended it to reflect my wireframes and ensur
 
 * When testing the Header Section on the following devcices Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, 
 I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop. I noted that the burger bar moved underneath the title Peaches & Green on the Iphone5 / SE.
- This is not the most user friendly and not pleasing to users. With this a media query specifically designed for the I-phone 5 was created and 
-the problem resolved
-
-* When testing the footer to ensure that it was responsive on all devices, I noted that the dots between the website links 
-did not look streamlined on mobile devices. I inserted a media query to remove the dots on all screen except desktop. I also 
-reduced the word spacing on smaller screens as I wanted to retain the inline look of the links on all devices. This was tested on 
-Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop
-
-* When testing the footer on various devices I also noted that as above when the decorative dots were removed the 
-social media icons looked to be too spaced out and didnt have the asthetic I was looking for, therefore I created a media query to 
-decrease the space between the social media icons and I believe this is more in line with the over asthetic of the page. This was tested on 
-Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop.
+ With this a media query specifically designed for the I-phone 5 was created and the problem resolved
 
 * When testing the pantry page, I observed with the style of photograph used and with the peaches aligining to the left and 
 the text aliging to the right this was easily readable on larger screen given the neutral background, however on smaller devices
@@ -246,13 +235,10 @@ and was therefore amended to sit in the centre on smaller screens
 
 * Used the information on CSS word-spacing property [W3 Schools](https://www.w3schools.com/cssref/pr_text_word-spacing.asp*/) to assist with word spacing 
 
-* Dots in the footer were created using a snippet of code from [W3 Schools](https://www.w3schools.com/howto/howto_css_circles.asp)
-
 * Found a command to use to blur area behind text on the carousel, this was found on [Grepper](https://www.codegrepper.com/code-examples/swift/blur+behind+text+css) 
 
-* Used and amended a snippet of code from [W3 Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) to remove social media icons on smaller screens
-
 * Used snippet of code and amended it from [W3 Schools](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_unordered_none) to create an unordered list without bullet points
+
 
 ## Content
 
