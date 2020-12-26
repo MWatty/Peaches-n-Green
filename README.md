@@ -194,21 +194,21 @@ that data is managed
 therefore re-assessed the work and amended it to reflect my wireframes and ensure that I was consistent in a mobile first approach
 
 * When testing the Header Section on the following devcices Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, 
-I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop. I noted that the burger bar moved underneath the title Peaches & Green on the Iphone5 / SE.
- With this a media query specifically designed for the I-phone 5 was created and the problem resolved
+I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop. I noted that the burger bar moved underneath the title Peaches & Green on the 
+Iphone5 / SEand on the Galaxy Fold.With this a media query specifically designed for the I-phone 5 was created and the problem resolved
 
 * When testing the pantry page, I observed with the style of photograph used and with the peaches aligining to the left and 
 the text aliging to the right this was easily readable on larger screen given the neutral background, however on smaller devices
 a backdrop filter was required to blur so that users could continue to read the content. This was tested on 
-Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop.
+Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop
 
 * When testing my contact page by entering dummy information. I noted that I had incorrectly put email in for the input type for 
 the enter your first and last name section. This was changed to text. I also noted that I had incorrectly placed the required format 
-for the text box in the wrong place. Both were amended and re-tested and appear to be working satisfactorily. 
+for the text box in the wrong place. Both were amended and re-tested and appear to be working satisfactorily
 
 * In order to ensure that my user stories were met, I amended the name of the Pantry section in the navigation bar to Essentials. 
 As a user I feel this navigaiton link is more desirable and user focused. This will allow for someone that may be embarking on 
-making and creating their first vegetarian dishes to think what do I neeed to get started in the Kitchen. 
+making and creating their first vegetarian dishes to think what do I neeed to get started in the Kitchen
 
 * The background filter used to blur was not applied to the "10 essentials for your Kitchen Pantry" this was amended 
 and checked on all devices 
