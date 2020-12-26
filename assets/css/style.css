@@ -269,26 +269,9 @@ a:hover {
 
 /*--------FOOTER-----------*/
 
-.links {
-    text-align: center;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 18px;
-    word-spacing: 55px;
+.container-footer{
+    padding-bottom: 55px;
 }
-
-.links li {
-    display: inline;
-}
-
-/* used a snippet of code from W3 schools to create dots https://www.w3schools.com/howto/howto_css_circles.asp */
-.dot {
-    height: 8px;
-    width: 8px;
-    background-color: #FFCBA4;
-    border-radius: 50%;
-    display: inline-block;
-}
-
 .socials {
     text-align: center;
     padding: 20px;
@@ -300,7 +283,7 @@ a:hover {
 }
 
 .socials .fa {
-    font-size: 30px;
+    font-size: 35px;
     color: #FFCBA4;
 }
 
@@ -328,24 +311,6 @@ a:hover {
 @media only screen and (max-width: 600px) {
   .pantry-ess {
    backdrop-filter: blur(6px);
-  }
-}
-
-@media only screen and (max-width: 1024px) {
-  .dot {
-    display: none;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .links{
-    word-spacing: 10px;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .socials{
-    word-spacing: 5px;
   }
 }
 
