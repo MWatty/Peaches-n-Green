@@ -124,6 +124,9 @@ star restaruant but what you could easily expect to see in a home setting. My ai
 
 #### Final project variations
 
+* The footer was amdended and the links to internal webpages removed, this was done to allow for a more clean look on the webpage. The footer without 
+the links looks much more aesthetically pleasing and further navigation links are not required given the limited size of the website. 
+
 * On the essentials page I used a an image of peaches, and the peaches are aligned on this image to the left, therefore I aligned the text to the 
 right, this is contrary to what I had initially planned in my wireframes. The reason for this change is  this is more asthetically pleasing and 
 also makes and page more readable. On larger screen no background filter is required and on a smaller screen a blur is applied to make this more readable. 
