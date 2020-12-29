@@ -192,6 +192,10 @@ that data is managed
 
 * [GitHub](https://github.com) was used as a hosting platform for version control
 
+* [Pixlr](https://pixlr.com/) was used to resize the images for optimum size for web use (max 798 x 1280)
+
+* [TinyPNG](https://tinypng.com/) was used to compress the image files 
+
 ## Testing
 
 * When testing the Header Section and its responsiveness, I noted that I was taking a desktop first approach in terms of design and 
@@ -296,3 +300,5 @@ The majority of photogpraphs used are from [Unsplash](https://unsplash.com/), li
 ## Acknowledgements
 
 * Thanks to the tutors for their support on this project 
+
+* 
