@@ -127,6 +127,10 @@ star restaruant but what you could easily expect to see in a home setting. My ai
 * The footer was amdended and the links to internal webpages removed, this was done to allow for a more clean look on the webpage. The footer without 
 the links looks much more aesthetically pleasing and further navigation links are not required given the limited size of the website. 
 
+* In order to ensure that my user stories were met, I amended the name of the Pantry section in the navigation bar to Essentials. 
+As a user I feel this navigaiton link is more desirable and user focused. This will allow for someone that may be embarking on 
+making and creating their first vegetarian dishes to think what do I neeed to get started in the Kitchen
+
 * On the essentials page I used a an image of peaches, and the peaches are aligned on this image to the left, therefore I aligned the text to the 
 right, this is contrary to what I had initially planned in my wireframes. The reason for this change is  this is more asthetically pleasing and 
 also makes and page more readable. On larger screen no background filter is required and on a smaller screen a blur is applied to make this more readable. 
@@ -206,9 +210,6 @@ Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, 
 the enter your first and last name section. This was changed to text. I also noted that I had incorrectly placed the required format 
 for the text box in the wrong place. Both were amended and re-tested and appear to be working satisfactorily
 
-* In order to ensure that my user stories were met, I amended the name of the Pantry section in the navigation bar to Essentials. 
-As a user I feel this navigaiton link is more desirable and user focused. This will allow for someone that may be embarking on 
-making and creating their first vegetarian dishes to think what do I neeed to get started in the Kitchen
 
 * The background filter used to blur was not applied to the "10 essentials for your Kitchen Pantry" this was amended 
 and checked on all devices 
@@ -287,9 +288,11 @@ The majority of photogpraphs used are from [Unsplash](https://unsplash.com/), li
 
 * <span>Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/pantry?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-A photograph was also taken from [Pexels](https://www.pexels.com/), click for the specific [photograph](https://www.pexels.com/photo/appetizer-bowls-cream-creamy-262947/)
+* A photograph was also taken from [Pexels](https://www.pexels.com/), click for the specific [photograph](https://www.pexels.com/photo/appetizer-bowls-cream-creamy-262947/)
 
-The wallpaper used for the Contact Form is from [Wall-Paper-Access](https://wallpaperaccess.com/), please click for direct access to the [wallpaper](https://wallpaperaccess.com/peach-watercolor) used
+* The wallpaper used for the Contact Form is from [Wall-Paper-Access](https://wallpaperaccess.com/), please click for direct access to the [wallpaper](https://wallpaperaccess.com/peach-watercolor) used
 
 
 ## Acknowledgements
+
+* Thanks to the tutors for their support on this project 

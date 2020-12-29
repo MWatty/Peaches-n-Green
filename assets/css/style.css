@@ -121,6 +121,10 @@ a:hover {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+button.center-button {
+    margin: auto;
+}
+
 
 
 /*-------CARDS---------*/
@@ -327,4 +331,7 @@ a:hover {
     font-size: 20px;
   }
 }
+
+
+
 
