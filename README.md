@@ -194,7 +194,7 @@ that data is managed
 
 * [Pixlr](https://pixlr.com/) was used to resize the images for optimum size for web use (max 798 x 1280)
 
-* [TinyPNG](https://tinypng.com/) was used to compress the image files 
+* [TinyJPG](https://tinyjpg.com/) was used to compress the image files 
 
 ## Testing
 
@@ -229,6 +229,12 @@ improve this feature
 
 * The subscribe button aligns to the left on smaller screens, this was not in keeping with the submit button located just above 
 and was therefore amended to sit in the centre on smaller screens 
+
+* When tested on a slower internet connection there was a delay in the images loading, thus having a negative imapct on the 
+overall user expereince. Images were far too high a resolution. Two technologies were used to remedy this. [Pixler](https://pixlr.com/)
+was used to re-size the images to an optimum for websites (798 x 1280) and [TinyJPG](https://tinyjpg.com/) was used to compress the 
+re-sized images further reducing the file sze
+
 
 ## Deployment
 
