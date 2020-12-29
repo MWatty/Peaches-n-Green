@@ -242,7 +242,15 @@ and was therefore amended to sit in the centre on smaller screens
 
 ## Content
 
-* The ingredients and the method for the Tomato Soup were quoted directly [Cully & Sully](https://cullyandsully.com/node/298)
+* The ingredients and the method for the Tomato Soup were quoted directly from [Cully & Sully](https://cullyandsully.com/node/298)
+
+* The ingredients and method for the Apple & HAzelnut Crumble was inspired by [BBC Good Food](https://www.bbcgoodfood.com/recipes/rhubarb-pear-hazelnut-crumbles)
+
+* The ingredients and method for the Falafel were quoted directly from [BBC Good Food](https://www.bbcgoodfood.com/recipes/spicy-falafels)
+
+* The ingredients and the method for teh Peach Cobbler were quoted directly from [BBC Good Food](https://www.bbcgoodfood.com/recipes/peach-cobbler)
+
+* The ingredients and the method for the Pizza Dough were quoted directly from [BBC Good Food](https://www.bbcgoodfood.com/user/4089011/recipe/2-ingredient-pizza-dough)
 
 * Within this README.md file I quoted text from [Gray-Cell-Tech](https://www.graycelltech.com/why-use-html-5/) within the Technologies Used section
 
