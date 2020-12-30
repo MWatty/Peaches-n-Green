@@ -56,13 +56,14 @@ a:hover {
 .carousel-title {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 55px;
-    backdrop-filter: blur(8px);
     font-weight: bold; 
+    text-shadow: 4px 4px #505050;
+
 }
 
 .carousel-desc{
     font-size: 25px;
-    backdrop-filter: blur(8px);
+    text-shadow: 2px 2px #505050;
 }
 
 
@@ -194,7 +195,7 @@ a:hover {
     font-family: 'Source Sans Pro', sans-serif;
     margin-top: 35px;
     margin-bottom: 25px;
-    backdrop-filter: blur(8px);
+    text-shadow: 1px 1px #505050;
     font-weight: bold;
 }
 
@@ -223,7 +224,7 @@ a:hover {
 
 .form-group {
     color: #505050 ;
-    backdrop-filter: blur(8px);
+    text-shadow: 1px 1px #505050;
     text-align: center;
 }
 
@@ -306,13 +307,13 @@ button.center-button {
 
 @media only screen and (max-width: 600px) {
   .pantry-item {
-   backdrop-filter: blur(8px);
+    text-shadow: 1px 1px #505050;
   }
 }
 
 @media only screen and (max-width: 600px) {
   .pantry-ess {
-   backdrop-filter: blur(6px);
+    text-shadow: 1px 1px #505050;
   }
 }
 
