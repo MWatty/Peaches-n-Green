@@ -129,10 +129,6 @@ button.center-button {
 
 /*-------CARDS---------*/
 
-.container-cards {
-    margin-bottom: 50px;
-}
-
 .container-cards-two {
     margin-bottom: 50px;
 }
@@ -145,6 +141,10 @@ button.center-button {
 .card-footer {
     background-color:#F8E9E2;
     text-align: center;
+}
+
+.card {
+    margin-bottom: 30px;
 }
 
 /*--------CONTACT ME FORM---------*/
