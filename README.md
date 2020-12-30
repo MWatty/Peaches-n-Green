@@ -243,6 +243,11 @@ added and the appropriate information given
 * Testing carried out on CSS using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) and 6 errors were identified all 
 errors related to the use of the backdrop filter and the error stated that this property does not exist. 
 
+* Testing carried out on all HTML files using the [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) and an issue
+was identified on each page, there was a semicolon missing from the copyright symbol, this was amdended re-tested and confirmed resolved
+
+
+
 ## Deployment
 
 
