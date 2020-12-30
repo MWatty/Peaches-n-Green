@@ -214,7 +214,6 @@ Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, 
 the enter your first and last name section. This was changed to text. I also noted that I had incorrectly placed the required format 
 for the text box in the wrong place. Both were amended and re-tested and appear to be working satisfactorily
 
-
 * The background filter used to blur was not applied to the "10 essentials for your Kitchen Pantry" this was amended 
 and checked on all devices 
 
@@ -230,11 +229,19 @@ improve this feature
 * The subscribe button aligns to the left on smaller screens, this was not in keeping with the submit button located just above 
 and was therefore amended to sit in the centre on smaller screens 
 
+* The subscribe button and submit button had taken on the incorrect colours when testing, this was assessed and corrected. 
+There was additional code added further down the style CSS sheet that should have been deleted
+
 * When tested on a slower internet connection there was a delay in the images loading, thus having a negative imapct on the 
 overall user expereince. Images were far too high a resolution. Two technologies were used to remedy this. [Pixler](https://pixlr.com/)
 was used to re-size the images to an optimum for websites (798 x 1280) and [TinyJPG](https://tinyjpg.com/) was used to compress the 
 re-sized images further reducing the file sze
 
+* When testing it was noted there was no alt attribute attached to the photogrpagh in the About Me seciton, the alt attribute was 
+added and the appropriate information given 
+
+* Testing carried out on CSS using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) and 6 errors were identified all 
+errors related to the use of the backdrop filter and the error stated that this property does not exist. 
 
 ## Deployment
 

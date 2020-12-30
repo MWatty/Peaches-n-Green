@@ -84,49 +84,6 @@ a:hover {
      text-align: justify;
 }
 
-/*--------SUBSCRIBE SECTION--------*/
-
-.subscribe-container {
-    margin-top: 25px;
-    margin-bottom: 55px;
-    background-color: #F8E9E2;
-    padding-bottom: 25px;
-}
-
-.subscribe-title {
-    text-align: center;
-    margin-top: 20px;
-}
-
-.subscribe-header {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 35px;
-}
-
-.subscribe-para{
-    text-align: center;
-}
-
-.subscribe-text {
-    font-size: 17px;
-}
-
-.form-control {
-    text-align: center;
-}
-
-.btn {
-    background-color: #FFCBA4;
-    color:#505050;
-    font-family: 'Source Sans Pro', sans-serif;
-}
-
-button.center-button {
-    margin: auto;
-}
-
-
-
 /*-------CARDS---------*/
 
 .container-cards-two {
@@ -147,55 +104,6 @@ button.center-button {
     margin-bottom: 30px;
 }
 
-/*--------CONTACT ME FORM---------*/
-
-.contact-me-title {
-    text-align: center;
-    color: #505050 ;
-    font-family: 'Source Sans Pro', sans-serif;
-    margin-top: 35px;
-    margin-bottom: 25px;
-    backdrop-filter: blur(8px);
-    font-weight: bold;
-}
-
-.submit-button {
-    text-align: center;
-    font-family: 'Source Sans Pro', sans-serif;
-}
-
-.btn{   
-    border: #505050;
-    background-color: #505050;
-    color: #FFCBA4;
-}
-
-.btn:hover {
-    background-color: #FFCBA4;
-    color: #505050 ;
-}
-
-.container-contact-form {
-    background-image: url('../../assets/images/wallpaper.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-
-.form-group {
-    color: #505050 ;
-    backdrop-filter: blur(8px);
-    text-align: center;
-}
-
-.diet-option {
-    text-align: center;
-}
-
-
-#dietinput {
-    text-indent: 40%;
-}
 
 /*--------PANTRY ESSENTIALS----------*/
 
@@ -273,9 +181,96 @@ button.center-button {
     padding-bottom: 25px;
 }
 
-
 .fa-clock {
     color: #505050;
+}
+
+
+/*--------CONTACT ME FORM---------*/
+
+.contact-me-title {
+    text-align: center;
+    color: #505050 ;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 35px;
+    margin-bottom: 25px;
+    backdrop-filter: blur(8px);
+    font-weight: bold;
+}
+
+.submit-button {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.btn{   
+    border: #505050;
+    background-color: #505050;
+    color: #FFCBA4;
+}
+
+.btn:hover {
+    background-color: #FFCBA4;
+    color: #505050 ;
+}
+
+.container-contact-form {
+    background-image: url('../../assets/images/wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.form-group {
+    color: #505050 ;
+    backdrop-filter: blur(8px);
+    text-align: center;
+}
+
+.diet-option {
+    text-align: center;
+}
+
+
+#dietinput {
+    text-indent: 40%;
+}
+
+
+/*--------SUBSCRIBE SECTION--------*/
+
+.subscribe-container {
+    margin-top: 25px;
+    margin-bottom: 55px;
+    background-color: #F8E9E2;
+    padding-bottom: 25px;
+}
+
+.subscribe-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.subscribe-header {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+}
+
+.subscribe-para{
+    text-align: center;
+}
+
+.subscribe-text {
+    font-size: 17px;
+}
+
+.form-control {
+    text-align: center;
+}
+
+button.center-button {
+    margin: auto;
+    font-family:'Source Sans Pro', sans-serif;
 }
 
 
@@ -299,7 +294,7 @@ button.center-button {
     color: #FFCBA4;
 }
 
-#copyright {
+.copyright {
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
@@ -308,15 +303,10 @@ button.center-button {
 
 /*--------MEDIA QUERIES----------*/
 
-@media only screen and (min-width: 600px) {
-  .pantry-ess{
-   backdrop-filter: blur(6px);
-  }
-}
 
 @media only screen and (max-width: 600px) {
   .pantry-item {
-   backdrop-filter: blur(6px);
+   backdrop-filter: blur(8px);
   }
 }
 
