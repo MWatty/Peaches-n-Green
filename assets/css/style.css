@@ -344,6 +344,12 @@ button.center-button {
   }
 }
 
+@media only screen and (min-width: 280px) {
+  .socials {
+    word-spacing: 50px;
+  }
+}
+
 
 
 
