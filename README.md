@@ -51,9 +51,6 @@ the user visits the website it is clear that this is a vegetarian website with l
 delicious recipes to choose from. The user will also have the option to contact me should 
 they wish to do so and this can be done using a form or one of the social media platfornms. 
 
-Site Constraints: given the site is constructed with HTML and CSS only I would say that in the interactivity of the 
-website could be improved with the use of Javascript to make the website more engaging for visitors. 
-
 ### Structure
 
 In order to meet the expectation of "Peaches & Green" users the wesbite aims to stick to convention in
@@ -118,7 +115,7 @@ Source Sans Pro paired was chosen and with Lato as per the popular pairings sect
 
 #### Images
 
-All images used throuhgout the website have been carefully chosen to ensure there is a running theme from page to page, the images ahve also been 
+All images used throuhgout the website have been carefully chosen to ensure there is a running theme from page to page, the images have also been 
 seleted to be inviting to the user, with familiar dishes and a sense of achievebaility, the food images are not what you would see in a michelin 
 star restaruant but what you could easily expect to see in a home setting. My aim was to make the user feel that they can re-create the images. 
 
@@ -129,11 +126,11 @@ the links looks much more aesthetically pleasing and further navigation links ar
 
 * In order to ensure that my user stories were met, I amended the name of the Pantry section in the navigation bar to Essentials. 
 As a user I feel this navigaiton link is more desirable and user focused. This will allow for someone that may be embarking on 
-making and creating their first vegetarian dishes to think what do I neeed to get started in the Kitchen
+making and creating their first vegetarian dishes to think what do I need to get started in the Kitchen
 
 * On the essentials page I used a an image of peaches, and the peaches are aligned on this image to the left, therefore I aligned the text to the 
 right, this is contrary to what I had initially planned in my wireframes. The reason for this change is  this is more asthetically pleasing and 
-also makes and page more readable. On larger screen no background filter is required and on a smaller screen a blur is applied to make this more readable. 
+also makes and page more readable. On larger screen no background filter is required and on a smaller screen a shadow is applied to make this more readable. 
 
 ## Features
 
@@ -176,6 +173,8 @@ that data is managed
 
 * Contact form drop down menu text within this drop down should be centered in keeping with the overall theme of the form 
 
+* Given the site is constructed with HTML and CSS only I would say that in the interactivity of the 
+website could be improved with the use of Javascript to make the website more engaging for visitors. 
 
 ## Technologies Used
 
@@ -251,7 +250,25 @@ was identified on each page, there was a semicolon missing from the copyright sy
 
 ## Deployment
 
+### Deployment through GitHub Pages 
 
+1. Log into [GitHub](https://github.com/)
+2. Click on the relevant [Repository](https://github.com/MWatty/Peaches-n-Green) 
+3. Click on settings option along the options bar
+4. Locate GitHub Pages options towards the bottom of the page
+5. In 'Source' dropdown, select 'Master' from the branch options
+6. Click the save button
+
+### Cloning Project 
+
+1. Log into [GitHub](https://github.com/)
+2. Locate the relevant Repository
+3. Under the Repository name click "clone or download"
+4. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+5. Open Git Bash
+6. Change the current working directory to the location where you want the cloned directory to be made.
+7. Type git clone, and then paste the URL you copied in Step 3.
+8. Click Enter and your local clone will be created.
 
 ## Credits
 
@@ -318,6 +335,4 @@ The majority of photogpraphs used are from [Unsplash](https://unsplash.com/), li
 
 ## Acknowledgements
 
-* Thanks to the tutors for their support on this project 
-
-* 
+ 
