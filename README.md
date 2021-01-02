@@ -34,6 +34,8 @@ they can create in the Kitchen and what new recipes are on offer.
 - As a user I would like to see what socials media platforms the business uses
 - As a user I want the website to be responsive on whichever device I'm viewing it on
 
+![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/sscontact.png "Contact Page")
+
 #### Site owner goals
 
 - As the owner of the site I want people to find the recipes they are looking for easily
