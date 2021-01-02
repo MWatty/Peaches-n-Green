@@ -2,6 +2,8 @@
 
 Milestone Project 1 - User Centric Frontend - Code Institute
 
+![MS1 Peaches & Green](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssmockup.png "MS1 Peaches & Green")
+
 Peaches & Green is a vegetarian recipe website with the aim of inspiring a bit more creativity when it comes
 to vegetarian cooking in the home. This website will appeal to all home cooks and particularly those that
 are curious and unsure about where to begin when it comes to vegetarian cooking. Simple, easy, everday
@@ -9,7 +11,7 @@ vegetarian cooking for vegetarians and the vegetarian curious.
 
 ## Demo
 
-A live demo can be found here [here] (to be completed)
+A live demo can be found here [here](https://mwatty.github.io/Peaches-n-Green/).
 
 ## UX
 
@@ -47,7 +49,6 @@ they can create in the Kitchen and what new recipes are on offer.
 #### Screenshots 
 
 A sample of screenshots below reflecting the above user stories: 
-
 
 ![Recipes](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipes.png "Recipes")
 
@@ -211,6 +212,8 @@ that data is managed
 * [TinyJPG](https://tinyjpg.com/) was used to compress the image files 
 
 * [Browserling](https://www.browserling.com/) was used for cross browser testing
+
+* [Am I responsive](http://ami.responsivedesign.is/#) was used to create a mock up
 
 ## Testing
 
