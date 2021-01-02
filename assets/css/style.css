@@ -279,13 +279,10 @@ button.center-button {
 
 /*--------FOOTER-----------*/
 
-.container-footer{
-    padding-bottom: 55px;
-}
 .socials {
     text-align: center;
-    padding: 20px;
     word-spacing: 70px;
+    padding-left: 0px;
 }
 
 .socials li {
@@ -301,6 +298,7 @@ button.center-button {
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
+    padding-bottom: 20px;
 }
 
 
@@ -325,8 +323,6 @@ button.center-button {
   }
 }
 
-
-
 @media only screen and (max-width: 600px) {
   .pantry-item {
     text-shadow: 1px 1px #505050;
@@ -345,11 +341,11 @@ button.center-button {
   }
 }
 
-@media only screen and (min-width: 280px) {
+/*@media only screen and (min-width: 280px) {
   .socials {
     word-spacing: 50px;
   }
-}
+}*/
 
 
 

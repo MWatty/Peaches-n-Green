@@ -349,8 +349,5 @@ The majority of photogpraphs used are from [Unsplash](https://unsplash.com/), li
 
 ## Acknowledgements
 
-* A thank you to all the students on Slack for their support and assistance. 
 
-* Thank you to the Tutors for helping me throughout this project.
 
-* A huge thank you to my mentor Sandeep Aggarwal for his help throughout and for making me believe that I can actually do this. 
