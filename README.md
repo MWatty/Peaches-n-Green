@@ -27,16 +27,22 @@ they can create in the Kitchen and what new recipes are on offer.
 #### First time visitor goals
 
 - As a user I want to find simple vegetarian recipes
-- As a user I want to be able to contact the site owner so I can ask questions about the recipes
 - As a user I want to easily navigate and quickly find what I am looking for
+
+![Recipes](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipes.png "Recipes")
+
+- As a user I want to be able to contact the site owner so I can ask questions about the recipes
+- As a user I would like to see what socials media platforms the business uses
+- As a user I want the website to be responsive on whichever device I'm viewing it on (The screenshot below is on an Ipad)
+
+![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/sscontact.png "Contact Page")
+
 - As a user I want to find the website attractive and informative
 - As a user I want a visual aid as to what the recipe should look like
-- As a user I would like to see what socials media platforms the business uses
-- As a user I want the website to be responsive on whichever device I'm viewing it on
 
-* ![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/sscontact.png "Contact Page")
-* ![Recipes](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipes.png "Recipes")
-* ![Individual Recipe](https://github.com/MWatty/Peaches-n-Green/tree/master/assets/images "Individual Recipe")
+![Individual Recipe](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipes.png "Individual Recipe")
+
+
 
 #### Site owner goals
 
