@@ -209,6 +209,8 @@ that data is managed
 
 * [TinyJPG](https://tinyjpg.com/) was used to compress the image files 
 
+* [Browserling](https://www.browserling.com/) was used for cross browser testing
+
 ## Testing
 
 * When testing the Header Section on the following devcices Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, 
@@ -257,6 +259,9 @@ was removed and instead a text shadow was used. The CSS file was tested again wi
 * Testing carried out on all HTML files using the [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) and an error
 was identified on each page, there was a semicolon missing from the copyright symbol, this was amdended re-tested and confirmed resolved
 
+* Browserling was used for cross browser testing, an example of the testing carried out is highlighted below in the screenshot. 
+
+![Internet Explorer 11](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/IE11.png "Internet Explorer 11")
 
 ## Deployment
 
