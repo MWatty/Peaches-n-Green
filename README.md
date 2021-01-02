@@ -46,10 +46,13 @@ they can create in the Kitchen and what new recipes are on offer.
 
 #### Screenshots 
 
-A sample of screenshots below reflecting the above user stories. 
+A sample of screenshots below reflecting the above user stories: 
+
 
 ![Recipes](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipes.png "Recipes")
+
 ![Individual Recipe](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipeeasy.png "Individual Recipe")
+
 ![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/sscontact.png "Contact Page")
 
 ### Scope
