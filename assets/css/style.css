@@ -348,6 +348,12 @@ button.center-button {
   }
 }*/
 
+@media only screen and (max-width: 600px) {
+  .form-inline {
+    margin: 15px;
+  }
+}
+
 
 
 

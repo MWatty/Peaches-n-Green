@@ -50,17 +50,18 @@ they can create in the Kitchen and what new recipes are on offer.
 
 A sample of screenshots below reflecting the above user stories: 
 
-##### Recipe Card Page
+##### ***Recipe*** ***Card*** ***Page***
 
 ![Recipes](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipes.png "Recipes")
 
-##### Individual Recipe Page
+##### ***Individual*** ***Recipe*** ***Page***
 
 ![Individual Recipe](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipeeasy.png "Individual Recipe")
 
-##### Contact Page 
+##### ***Contact*** ***Page*** 
 
 ![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/sscontact.png "Contact Page")
+
 
 ### Scope
 
