@@ -28,21 +28,11 @@ they can create in the Kitchen and what new recipes are on offer.
 
 - As a user I want to find simple vegetarian recipes
 - As a user I want to easily navigate and quickly find what I am looking for
-
-![Recipes](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipes.png "Recipes")
-
 - As a user I want to be able to contact the site owner so I can ask questions about the recipes
 - As a user I would like to see what socials media platforms the business uses
 - As a user I want the website to be responsive on whichever device I'm viewing it on (The screenshot below is on an Ipad)
-
-![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/sscontact.png "Contact Page")
-
 - As a user I want to find the website attractive and informative
 - As a user I want a visual aid as to what the recipe should look like
-
-![Individual Recipe](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipeeasy.png "Individual Recipe")
-
-
 
 #### Site owner goals
 
@@ -53,6 +43,14 @@ they can create in the Kitchen and what new recipes are on offer.
 - As the owner of the site I want to encourage more followers through social media using our socials media links that are available
 - As the owner of the site I want people to feel that they can contact me and that I am accessible
 - As the owner of the site I want people to feel that the recipes are easy to follow
+
+#### Screenshots 
+
+A sample of screenshots below reflecting the above user stories. 
+
+![Recipes](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipes.png "Recipes")
+![Individual Recipe](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipeeasy.png "Individual Recipe")
+![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/sscontact.png "Contact Page")
 
 ### Scope
 
@@ -266,10 +264,10 @@ Testing was carried out on Internet Explorer 11, Firefox 82.0 & Google Chrome 87
 
 ## Deployment
 
-### Deployment through GitHub Pages 
+### Deployed on GitHub Pages using Master Branch
 
 1. Log into [GitHub](https://github.com/)
-2. Click on the relevant [Repository](https://github.com/MWatty/Peaches-n-Green) 
+2. Click on the relevant [Repository - Peaches & Green](https://github.com/MWatty/Peaches-n-Green) 
 3. Click on settings option along the options bar
 4. Locate GitHub Pages options towards the bottom of the page
 5. In 'Source' dropdown, select 'Master' from the branch options
@@ -278,7 +276,7 @@ Testing was carried out on Internet Explorer 11, Firefox 82.0 & Google Chrome 87
 ### Cloning Project 
 
 1. Log into [GitHub](https://github.com/)
-2. Locate the relevant Repository
+2. Locate the relevant [Repository - Peaches & Green](https://github.com/MWatty/Peaches-n-Green) 
 3. Under the Repository name click "clone or download"
 4. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 5. Open Git Bash
@@ -349,5 +347,9 @@ The majority of photogpraphs used are from [Unsplash](https://unsplash.com/), li
 
 ## Acknowledgements
 
+* A huge thank you to all of my friends and family that inspired me to put this website together. The inspiration has come from the question I get asked most
+"I dont know any vegetarian recipes what would recommend".
 
+* I would also like to acknowledge all the wonderful food bloggers out there that inspire me particularly my 
+cousin Sandra a wonderful food taster and photographer. 
 
