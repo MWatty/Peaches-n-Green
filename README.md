@@ -260,6 +260,7 @@ was removed and instead a text shadow was used. The CSS file was tested again wi
 was identified on each page, there was a semicolon missing from the copyright symbol, this was amdended re-tested and confirmed resolved
 
 * [Browserling](https://www.browserling.com/) was used for cross browser testing, an example of the testing carried out is highlighted below in the screenshot. 
+Testing was carried out on Internet Explorer 11, Firefox 82.0 & Google Chrome 87.0.4280.88. 
 
 ![Internet Explorer 11](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/IE11.png "Internet Explorer 11")
 
