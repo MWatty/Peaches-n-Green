@@ -40,7 +40,7 @@ they can create in the Kitchen and what new recipes are on offer.
 - As a user I want to find the website attractive and informative
 - As a user I want a visual aid as to what the recipe should look like
 
-![Individual Recipe](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipes.png "Individual Recipe")
+![Individual Recipe](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssrecipeeasy.png "Individual Recipe")
 
 
 
