@@ -17,7 +17,7 @@ A live demo can be found here [here] (to be completed)
 
 This website is for all homecooks that are looking to add simple, easy, affordable plant based meals to their diet.
 The website aims to use ingredients that most people have in their homes, ingredients that are affordable and
-ingredients that arent too daunting when delving into the vegetarain meal world. This is going to be achieved by
+ingredients that are not too daunting when delving into the vegetarain meal world. This is going to be achieved by
 having limited ingredients, beautiful images, takes on traditionally meat based classics and most of all delicious
 simple recipes to follow. Visitors will want to come back time and time again to find out what else
 they can create in the Kitchen and what new recipes are on offer.
@@ -46,17 +46,17 @@ they can create in the Kitchen and what new recipes are on offer.
 
 ### Scope
 
-For users, I wanted to provide a wesbite that is welcoming and unambigious. From the moment 
+For users, the site owner wanted to achieve a website that is welcoming and unambigious. From the moment 
 the user visits the website it is clear that this is a vegetarian website with lots of 
-delicious recipes to choose from. The user will also have the option to contact me should 
-they wish to do so and this can be done using a form or one of the social media platfornms. 
+delicious recipes to choose from. The user will also have the option to contact the site owner should 
+they wish to do so and this can be done using the contact form or through one of the social media platfornms. 
 
 ### Structure
 
 In order to meet the expectation of "Peaches & Green" users the wesbite aims to stick to convention in
-its layout and architecture. 
+it's layout and architecture. 
 
-There is a Header section  on each page, with a large "Peaches & Green" logo. Clicking on this logo will 
+There is a Header section on each page, with a "Peaches & Green" logo. Clicking on this logo will 
 take the user back to the landing page of the wesbite and this is, as above an expected and understood convention. 
 There is a navbar within this header element, the navbar appears in a horizontal fashion, encouraging the user to 
 explore and easily showcasing what is available and what this website is about. This makes all elements of the website
@@ -69,7 +69,7 @@ The website is interactive and provides elements of feedback to the user. This i
 for links and they changing of button colors when a form is submitted. The form will require users to input the correct information 
 and they will be notified if the information is incorrect. 
 
-The architecture of the website has been considered to allow for ease of movemnent through the content. The structure will allow 
+The architecture of the website has been considered to allow for ease of movement through the content. The structure will allow 
 the user to navigate easily and will encourage the user to browse through and learn more about the website. 
 
 Information in this section has been inspired by the information on [Code Institure](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/f6e2d80e148e43ce8ea42f85e00b7adc/?child=first)
@@ -91,7 +91,7 @@ Please find full PDF versions of wireframes and sketches below :
 #### Design
 
 The overall design of the website is minimalist and simple. I want the user to simply navigate from page to page and not 
-feel overwhelmed by being inundated with information. Simplicity and the use of images in place of text are used to 
+feel overwhelmed by being inundated with information. Simplicity and the use of images are used to 
 achieve this design. 
 
 #### Colour
@@ -102,35 +102,37 @@ of "Peaches & Green".
 
 When choosing the colour I used the [Colour picker tool](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)
 
-#FCE4D8;
-#F8E9E2;
-#FFCBA4
-
 #### Typography
 
-Source Sans Pro paired was chosen and with Lato as per the popular pairings section within [google fonts](https://fonts.google.com/specimen/Source+Sans+Pro?query=source+san&sidebar.open=true&selection.family=Lato|Source+Sans+Pro:wght@300#pairings) 
+Source Sans Pro paired was chosen and paired with Lato as per the popular pairings section within [google fonts](https://fonts.google.com/specimen/Source+Sans+Pro?query=source+san&sidebar.open=true&selection.family=Lato|Source+Sans+Pro:wght@300#pairings) 
+
 * font-family: 'Source Sans Pro', sans-serif;
 * font-family: 'Lato', sans-serif;
 
+The above fonts are minimalist and simple again in keeping with the overall theme of the wesbite. 
 
 #### Images
 
 All images used throuhgout the website have been carefully chosen to ensure there is a running theme from page to page, the images have also been 
-seleted to be inviting to the user, with familiar dishes and a sense of achievebaility, the food images are not what you would see in a michelin 
-star restaruant but what you could easily expect to see in a home setting. My aim was to make the user feel that they can re-create the images. 
+selected to be inviting to the user, with familiar dishes and a sense of achievebaility, the food images are not what you would see in a michelin 
+star restaruant but what you could easily expect to see in a home setting. The aim was to make the user feel that they can re-create the images. 
 
 #### Final project variations
+
+* In keeping with the overall simplicity of the website changes were made to the Header section on larger screens, the header and navbar section 
+was simplified and is similar on all devices, initially it was the site owners aim to have a large logo and header but this when designed 
+was not in keeping with the overall feel of the website. 
 
 * The footer was amdended and the links to internal webpages removed, this was done to allow for a more clean look on the webpage. The footer without 
 the links looks much more aesthetically pleasing and further navigation links are not required given the limited size of the website. 
 
-* In order to ensure that my user stories were met, I amended the name of the Pantry section in the navigation bar to Essentials. 
-As a user I feel this navigaiton link is more desirable and user focused. This will allow for someone that may be embarking on 
-making and creating their first vegetarian dishes to think what do I need to get started in the Kitchen
+* In order to ensure that my user stories were met, the name of the Pantry section in the navigation bar was changed to Essentials. 
+As a user the site owner felt this navigaiton link is more desirable and user focused. This will allow for someone that may be embarking on 
+making and creating their first vegetarian dishes to think what do I need to get started in the Kitchen.
 
-* On the essentials page I used a an image of peaches, and the peaches are aligned on this image to the left, therefore I aligned the text to the 
-right, this is contrary to what I had initially planned in my wireframes. The reason for this change is  this is more asthetically pleasing and 
-also makes and page more readable. On larger screen no background filter is required and on a smaller screen a shadow is applied to make this more readable. 
+* On the essentials page an image of peaches was used, and the peaches are aligned on this image to the left, therefore  the text was aligned to the 
+right, this is contrary to what was planned in the wireframes. The reason for this change is  this is more asthetically pleasing and 
+also makes the page more readable. On larger screen no background filter is required and on a smaller screen a shadow is applied to make this more readable. 
 
 ## Features
 
@@ -140,28 +142,30 @@ also makes and page more readable. On larger screen no background filter is requ
 a home button, having the other navigation links also allows the user to browse the website . As mentioned above this is a convention that users now know to expect. 
 
 * Footer - the Footer also exists on every page and again this a convention that user have become accustomed too and therefore it was important that this was 
-adhered to on this website. The footer houses a link for each page again allowing for streamlined browsing. The footer also contains the social media icons, this is an 
-important feature as it allows the user to access and further explore the world of "Peaches & Green" and this is reflected in the user stories. The footer also 
-contains a copyright feature to protect the content and the creator. 
+adhered to on this website.The footer also contains the social media icons, this is an important feature as it allows the user to access and further explore the 
+world of "Peaches & Green" and this is reflected in the user stories. The footer also contains a copyright feature to protect the content and the creator. 
 
-* Carousel - this showcases the websites 3 most recent recipes and the recipes will be seasonl and fit with the time of year 
+* Carousel - this showcases the websites 3 most recent recipes and the recipes will be seasonal and fit with the time of year.
 
-* About Me - provides a snippet of informaiton about me and why "Peaches & Green" came to life 
+* About Me - provides a snippet of informaiton about me and why "Peaches & Green" came to life.
 
 * Subscribe - allows users to subscribe to a weekly newsletter with additional recipes and also unlocks recipes on the website. This has the add on impact of 
 allowing further interactivty with users and increasing the level of returning customers. 
 
-* Recipe Cards - as per the user stories, simple navigation and users quickly being able to find what they are looking for are ver important factors. The use of the 
-card deck provides a beautiful visual representaiton of the recipes, and the addition of informaiton in the footer should allow users to seamlessly find what 
-they are looking for and if they are unsure what they are looking for exactly this should provide inspiration. 
+* Recipe Cards - as per the user stories, simple navigation and users quickly being able to find what they are looking for are very important factors. The use of the 
+card deck provides a beautiful visual representaiton of the recipes, and the addition of information in the footer should allow users to seamlessly find what 
+they are looking for and if they are unsure what they are looking this should provide inspiration. 
 
-* Individual Recipe Pages - simple, easy and achieveable is the aim of these pages. 
+* Individual Recipe Pages - simple, easy and achieveable is the aim of these pages. The photo on this page is carried through from the recipe card page or carousel, 
+this is intentional and offers a sense of fluidity to the user. The recipe page has a visual guide that is then broken down into 4 sections serving size, preparation time, 
+cooking time and simplicity level. At a glance this offers the user much of the information that they will need. On this page there is also an ingredients list and method 
+all again displayed in a simple fuss free manner. 
 
-* Essentials - this was created to take away the "I have no idea where to start" when it comes to vegetarian cooking. This is a statement that is very familiar to me and
-I believe this page answers this question. 
+* Essentials - this was created to take away the "I have no idea where to start" when it comes to vegetarian cooking. This is a statement that is very familiar to many 
+vegetarians and this page is a great starting point for the non-vegetarain when embarking on their first vegetarian recipes. 
 
-* Contact Page - this enables users to reach out to me to ask questions, provide feedback and potentially make requests for meal ideas 
-
+* Contact Page - this enables users to reach out to me to ask questions, provide feedback and potentially make requests for meal ideas. This also allows the user 
+to gather information on the users dietary preference should they wish to do so. 
 
 
 ### Features left to implement
@@ -173,8 +177,8 @@ that data is managed
 
 * Contact form drop down menu text within this drop down should be centered in keeping with the overall theme of the form 
 
-* Given the site is constructed with HTML and CSS only I would say that in the interactivity of the 
-website could be improved with the use of Javascript to make the website more engaging for visitors. 
+* Given the site is constructed with HTML and CSS only I would say that in the interactivity of the website could be improved with the use of Javascript
+ to make the website more engaging for visitors. 
 
 ## Technologies Used
 
@@ -197,47 +201,44 @@ website could be improved with the use of Javascript to make the website more en
 
 ## Testing
 
-* When testing the Header Section and its responsiveness, I noted that I was taking a desktop first approach in terms of design and 
-therefore re-assessed the work and amended it to reflect my wireframes and ensure that I was consistent in a mobile first approach
-
 * When testing the Header Section on the following devcices Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, 
 I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop. I noted that the burger bar moved underneath the title Peaches & Green on the 
-Iphone5 / SEand on the Galaxy Fold.With this a media query specifically designed for the I-phone 5 was created and the problem resolved
+Iphone5 / SEand on the Galaxy Fold. With this a media query specifically designed for the I-phone 5 was created and the problem resolved.
 
-* When testing the pantry page, I observed with the style of photograph used and with the peaches aligining to the left and 
+* When testing the Essentials page, I observed with the style of photograph used and with the peaches aligining to the left and 
 the text aliging to the right this was easily readable on larger screen given the neutral background, however on smaller devices
 a backdrop filter was required to blur so that users could continue to read the content. This was tested on 
-Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop
+Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus, I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop.
 
 * When testing my contact page by entering dummy information. I noted that I had incorrectly put email in for the input type for 
 the enter your first and last name section. This was changed to text. I also noted that I had incorrectly placed the required format 
-for the text box in the wrong place. Both were amended and re-tested and appear to be working satisfactorily
+for the text box in the wrong place. Both were amended and re-tested and appear to be working satisfactorily.
 
-* All external links open in a seperate tab when clicked
+* All external links open in a seperate tab when clicked.
 
-* All navigation links in both the Header and Footer are working, I did note and amnded that facebook social media icon as this was 
-incorrectly going to pinterest
+* All navigation links in both the Header and Footer are working, I did note that the Facebook icon was linking to Pinterest and this 
+was amended to link to the correct website. 
 
 * The text within the dietary preference option on the contact me form was not centered and therefore not streamlined with the 
 other input fields, this was amdended using a text-indent command, please see features left to implement on how to further 
-improve this feature 
+improve this feature.
 
 * The subscribe button aligns to the left on smaller screens, this was not in keeping with the submit button located just above 
-and was therefore amended to sit in the centre on smaller screens 
+and was therefore amended to sit in the centre on smaller screens.
 
 * The subscribe button and submit button had taken on the incorrect colours when testing, this was assessed and corrected. 
-There was additional code added further down the style CSS sheet that should have been deleted
+There was additional code added further down the style CSS sheet that should have been deleted. 
 
 * When tested on a slower internet connection there was a delay in the images loading, thus having a negative imapct on the 
 overall user expereince. Images were far too high a resolution. Two technologies were used to remedy this. [Pixler](https://pixlr.com/)
 was used to re-size the images to an optimum for websites (798 x 1280) and [TinyJPG](https://tinyjpg.com/) was used to compress the 
 re-sized images further reducing the file sze
 
-* When testing it was noted there was no alt attribute attached to the photogrpagh in the About Me seciton, the alt attribute was 
-added and the appropriate information given 
+* When testing it was noted there was no alt attribute attached to the photogrpagh in the About Me section, the alt attribute was 
+added and the appropriate information given.
 
-* Social media icons were not aligned on a Galaxy Fold device to remedy this a media query was created so that the footer looks 
-the same on all devices 
+* Social media icons within the footer were not aligned on a Galaxy Fold device to remedy this a media query was created so that the footer looks 
+the same on all devices and the icons are aligning correctly. 
 
 * Testing carried out on CSS using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) and 6 errors were identified all 
 errors related to the use of the backdrop filter and the error stated that this property does not exist. The use of the backdrop-filter 
@@ -245,7 +246,6 @@ was removed and instead a text shadow was used. The CSS file was tested again wi
 
 * Testing carried out on all HTML files using the [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) and an error
 was identified on each page, there was a semicolon missing from the copyright symbol, this was amdended re-tested and confirmed resolved
-
 
 
 ## Deployment
@@ -276,8 +276,6 @@ was identified on each page, there was a semicolon missing from the copyright sy
 
 * Used the information on CSS word-spacing property [W3 Schools](https://www.w3schools.com/cssref/pr_text_word-spacing.asp*/) to assist with word spacing 
 
-* Found a command to use to blur area behind text on the carousel, this was found on [Grepper](https://www.codegrepper.com/code-examples/swift/blur+behind+text+css) 
-
 * Used snippet of code and amended it from [W3 Schools](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_unordered_none) to create an unordered list without bullet points
 
 
@@ -285,11 +283,11 @@ was identified on each page, there was a semicolon missing from the copyright sy
 
 * The ingredients and the method for the Tomato Soup were quoted directly from [Cully & Sully](https://cullyandsully.com/node/298)
 
-* The ingredients and method for the Apple & HAzelnut Crumble was inspired by [BBC Good Food](https://www.bbcgoodfood.com/recipes/rhubarb-pear-hazelnut-crumbles)
+* The ingredients and method for the Apple & Hazelnut Crumble was inspired by [BBC Good Food](https://www.bbcgoodfood.com/recipes/rhubarb-pear-hazelnut-crumbles)
 
 * The ingredients and method for the Falafel were quoted directly from [BBC Good Food](https://www.bbcgoodfood.com/recipes/spicy-falafels)
 
-* The ingredients and the method for teh Peach Cobbler were quoted directly from [BBC Good Food](https://www.bbcgoodfood.com/recipes/peach-cobbler)
+* The ingredients and the method for the Peach Cobbler were quoted directly from [BBC Good Food](https://www.bbcgoodfood.com/recipes/peach-cobbler)
 
 * The ingredients and the method for the Pizza Dough were quoted directly from [BBC Good Food](https://www.bbcgoodfood.com/user/4089011/recipe/2-ingredient-pizza-dough)
 
@@ -297,7 +295,7 @@ was identified on each page, there was a semicolon missing from the copyright sy
 
 * Within this README.md file I quoted text from [W3 Schools](https://www.w3schools.com/css/css_intro.asp) within the Technologies Used section
 
-* Within this README.md file I referenced text from [Get-Bootstrap]
+* Within this README.md file I referenced text from [Get-Bootstrap] (https://getbootstrap.com/) 
 
 * Within this README.md file I quoted text from [Gitpod](https://www.gitpod.io/docs/) within the Technologies Used section
 
@@ -335,4 +333,8 @@ The majority of photogpraphs used are from [Unsplash](https://unsplash.com/), li
 
 ## Acknowledgements
 
- 
+* A thank you to all the students on Slack for their support and assistance. 
+
+* Thank you to the Tutors for helping me throughout this project.
+
+* A huge thank you to my mentor Sandeep Aggarwal for his help throughout and for making me believe that I can actually do this. 
