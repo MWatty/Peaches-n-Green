@@ -35,7 +35,7 @@ they can create in the Kitchen and what new recipes are on offer.
 - As a user I would like to see what socials media platforms the business uses
 - As a user I want the website to be responsive on whichever device I'm viewing it on (The screenshot below is on an Ipad)
 
-![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/sscontact1.png "Contact Page")
+![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/sscontact.png "Contact Page")
 
 - As a user I want to find the website attractive and informative
 - As a user I want a visual aid as to what the recipe should look like
