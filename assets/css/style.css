@@ -16,6 +16,11 @@ a:link {
 a:hover {
     font-weight:bold;
     color:#505050;
+    font-size: 20px;
+}
+
+a:hover.navbar-brand{
+    font-size: 30px;
 }
 
 
@@ -40,34 +45,24 @@ a:hover {
     color:#505050;
 }
 
-.nav-item {
-    padding-left: 100px;
-    padding-right: 100px;
-}
-
 .navbar-toggler {
     border: transparent;
 }
 
-/*--------CAROUSEL-----------*/
 
-/*found a CSS command (backdrop-filter) to use for blurring the area behind the text https://www.codegrepper.com/code-examples/swift/blur+behind+text+css*/
+/*--------CAROUSEL-----------*/
 
 .carousel-title {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 55px;
     font-weight: bold; 
     text-shadow: 4px 4px #505050;
-
 }
 
 .carousel-desc{
     font-size: 25px;
     text-shadow: 2px 2px #505050;
 }
-
-
-
 
 /*------ABOUT ME-----------*/
 
@@ -151,9 +146,9 @@ a:hover {
 }
 
 .recipes-headings {
-      font-family: 'Source Sans Pro', sans-serif;
-      font-weight: bold;
-      margin-bottom: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
 }
 
 .recipe-ingredients-container {
@@ -236,7 +231,7 @@ a:hover {
 
 
 #dietinput {
-    text-indent: 40%;
+    padding-left: 37%;
 }
 
 
@@ -342,17 +337,20 @@ button.center-button {
   }
 }
 
-/*@media only screen and (min-width: 280px) {
-  .socials {
-    word-spacing: 50px;
-  }
-}*/
-
 @media only screen and (max-width: 600px) {
   .form-inline {
     margin: 15px;
   }
 }
+
+@media only screen and (min-width: 1020px) {
+  .nav-item {
+    padding-right: 100px;
+    padding-left: 100px;
+  }
+}
+
+
 
 
 
