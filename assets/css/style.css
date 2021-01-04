@@ -304,9 +304,24 @@ button.center-button {
     font-size: 30px;
     text-shadow: 2px 2px #505050;
   }
+  .carousel-desc {
+    display: none;
+  }
+.about-title {
+    text-align: center;
+  }
+  .pantry-item {
+    text-shadow: 1px 1px #505050;
+  }
+   .pantry-ess {
+    text-shadow: 1px 1px #505050;
+  }
+  .form-inline {
+    margin: 15px;
+  }
 }
 
-@media only screen and (max-width: 600px) {
+/*@media only screen and (max-width: 600px) {
   .carousel-desc {
     display: none;
   }
@@ -328,7 +343,7 @@ button.center-button {
   .pantry-ess {
     text-shadow: 1px 1px #505050;
   }
-}
+}*/
 
 @media only screen and (min-width: 280px) {
   .navbar-brand{
@@ -336,11 +351,11 @@ button.center-button {
   }
 }
 
-@media only screen and (max-width: 600px) {
+/*@media only screen and (max-width: 600px) {
   .form-inline {
     margin: 15px;
   }
-}
+}*/
 
 @media only screen and (min-width: 1020px) {
   .nav-item {
