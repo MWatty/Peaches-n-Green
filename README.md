@@ -299,7 +299,7 @@ other input fields, this was amdended using a text-indent command, please see fe
 improve this feature.
 
 * When viewed on Safari on an I-phone 11, the photographs on the individual recipe pages appeared stretched. This was assessed and 
-a coding error was identified the '<div class = col></div>' was missing. This was amdended and the issue was rectified. 
+a coding error was identified the 'div class = col' was missing. This was amdended and the issue was rectified. 
 
 
 ### Third Party Services 
