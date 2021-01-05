@@ -22,7 +22,7 @@ The website aims to use ingredients that most people have in their homes, ingred
 ingredients that are not too daunting when delving into the vegetarian meal world. This is going to be achieved by
 having limited ingredients, beautiful images, takes on traditionally meat based classics and most of all delicious
 simple recipes to follow. Visitors will want to come back time and time again to find out what else
-they can create in the Kitchen and what new recipes are on offer.
+they can create in the kitchen and what new recipes are on offer.
 
 ### User Stories
 
@@ -75,21 +75,21 @@ A sample of screenshots below reflecting the above user stories:
 For users, the site owner wanted to achieve a website that is welcoming and unambigious. From the moment 
 the user visits the website it is clear that this is a vegetarian website with lots of 
 delicious recipes to choose from. The user will also have the option to contact the site owner should 
-they wish to do so and this can be done using the contact form or through one of the social media platfornms. 
+they wish to do so and this can be done using the contact form or through one of the social media platforms. 
 
 ### Structure
 
-In order to meet the expectation of "Peaches & Green" users the wesbite aims to stick to convention in
+In order to meet the expectation of the "Peaches & Green" users the wesbite aims to stick to convention in
 it's layout and architecture. 
 
 There is a Header section on each page, with a "Peaches & Green" logo. Clicking on this logo will 
-take the user back to the landing page of the wesbite and this is, as above, an expected and understood convention. 
+take the user back to the landing page of the wesbite and this is, as mentioned above, an expected and understood convention. 
 There is a navbar within this header element, the navbar appears in a horizontal fashion, encouraging the user to 
 explore and easily showcasing what is available and what this website is about. This makes all elements of the website
 easily discoverable and aims to ensure the user can get to their desired destination within 3 clicks. 
 
-The colouring, theme and terminology used throughout the website is consitent and should aim to act as a fingerprint for 
-the website,returning visitors also know what to expect and feel a sense of comfort when browsing the website. 
+The colouring, theme and terminology used throughout the website is consistent.Returning visitors will know what to expect
+and feel a sense of comfort when browsing the website. 
 
 The website is interactive and provides elements of feedback to the user. This is evident in the use of the hover functionality 
 for links and they changing of button colors when a form is submitted. The form will require users to input the correct information 
@@ -130,7 +130,7 @@ When choosing the colour I used the [Colour picker tool](https://developer.mozil
 
 #### Typography
 
-Source Sans Pro paired was chosen and paired with Lato as per the popular pairings section within [google fonts](https://fonts.google.com/specimen/Source+Sans+Pro?query=source+san&sidebar.open=true&selection.family=Lato|Source+Sans+Pro:wght@300#pairings) 
+Source Sans Pro was chosen and paired with Lato as per the popular pairings section within [google fonts](https://fonts.google.com/specimen/Source+Sans+Pro?query=source+san&sidebar.open=true&selection.family=Lato|Source+Sans+Pro:wght@300#pairings) 
 
 * font-family: 'Source Sans Pro', sans-serif;
 * font-family: 'Lato', sans-serif;
@@ -139,22 +139,21 @@ The above fonts are minimalist and simple again in keeping with the overall them
 
 #### Images
 
-All images used throuhgout the website have been carefully chosen to ensure there is a running theme from page to page, the images have also been 
-selected to be inviting to the user, with familiar dishes and a sense of achievebaility, the food images are not what you would see in a michelin 
-star restaruant but what you could easily expect to see in a home setting. The aim was to make the user feel that they can re-create the images. 
+All images used throughgout the website have been carefully chosen to ensure there is a running theme from page to page. The images have also been 
+selected to be inviting to the user featuring simple and familiar dishes. The food images are not what you would see in a michelin 
+star restaruant but what you could easily expect to see in a domestic setting. The aim was to make the user feel that they can re-create the images at home. 
 
 #### Final project variations
 
-* In keeping with the overall simplicity of the website changes were made to the Header section on larger screens, the header and navbar section 
-were simplified, initially it was the site owners aim to have a large logo and header but this when implemented, this was not in keeping with the overall 
+* In keeping with the overall simplicity of the website, changes were made to the Header section on larger screens, the header and navbar section 
+were simplified, initially it was the site owners aim to have a large logo and header, but this when implemented was not in keeping with the overall 
 simplistic feel of the website. 
 
 * The footer was amdended and the links to internal webpages removed, this was done to allow for a more clean look on the webpage. The footer without 
 the links looks much more aesthetically pleasing and further navigation links are not required given the limited size of the website. 
 
-* In order to ensure that my user stories were met, the name of the Pantry section in the navigation bar was changed to Essentials. 
-As a user the site owner felt this navigaiton link is more desirable and user focused. This will allow for someone that may be embarking on 
-making and creating their first vegetarian dishes to think what do I need to get started in the Kitchen.
+* In order to ensure that user stories were met, the name of the Pantry section in the navigation bar was changed to Essentials. 
+The site owner felt this navigation link name is more desirable and user focused answering the common quesiton "what do I need to get started". 
 
 * On the essentials page an image of peaches was used, and the peaches are aligned on this image to the left, therefore  the text was aligned to the 
 right, this is contrary to what was planned in the wireframes. The reason for this change is this is more asthetically pleasing and 
@@ -175,7 +174,7 @@ world of "Peaches & Green" and this is reflected in the user stories. The footer
 
 * About Me - provides a snippet of informaiton about me and why "Peaches & Green" came to life.
 
-* Subscribe - allows users to subscribe to a weekly newsletter with additional recipes and also unlocks recipes on the website. This has the add on impact of 
+* Subscribe - allows users to subscribe to a weekly newsletter with additional recipes and also unlocks recipes on the website. This has the added impact of 
 allowing further interactivty with users and increasing the level of returning customers. 
 
 * Recipe Cards - as per the user stories, simple navigation, and users quickly being able to find what they are looking for are very important factors. The use of the 
@@ -187,7 +186,7 @@ this is intentional and offers a sense of fluidity to the user. The recipe page 
 cooking time and simplicity level. At a glance this offers the user much of the information that they will need. On this page there is also an ingredients list and method 
 all again displayed in a simple fuss free manner. 
 
-* Essentials - this was created to take away the "I have no idea where to start" when it comes to vegetarian cooking. This is a statement that is very familiar to many 
+* Essentials - this list was created to take away the "I have no idea where to start" mindset when it comes to vegetarian cooking. This is a statement that is very familiar to many 
 vegetarians and this page is a great starting point for the non-vegetarain when embarking on their first vegetarian recipes. 
 
 * Contact Page - this enables users to reach out to me to ask questions, provide feedback and potentially make requests for meal ideas. This also allows the site owner 
@@ -204,13 +203,13 @@ that data is managed.
 
 * Contact form drop down menu - text within this drop down should be centered in keeping with the overall theme of the form. 
 
-* Javascript - given the site is constructed with HTML and CSS only I would say that in the interactivity of the website could be improved with the use of Javascript
+* Javascript - given the site is constructed with HTML and CSS only. Javascript would improve the interactivity of the website 
  to make the website more engaging for visitors. 
 
 ## Technologies Used
 
-* [HTML5](https://www.graycelltech.com/why-use-html-5/) was used as this is the latest Hypertext Markup Language and this is the standard language for describing the contents and appearance of Web Pages
-  All major browsers offer HTML5 support which makes it the newest technology used today. 
+* [HTML5](https://www.graycelltech.com/why-use-html-5/) was used as this is the latest Hypertext Markup Language and this is the standard language for describing the contents and appearance of Web Pages.
+  All major browsers offer HTML5 support. 
 
 * [CSS](https://www.w3schools.com/css/css_intro.asp) is used to define styles for web pages, including the design, layout and variations in display for different devices and screen sizes.
 
@@ -285,10 +284,8 @@ and was therefore amended to sit in the centre on smaller screens.
 * The subscribe button and submit button had taken on the incorrect colours when testing, this was assessed and corrected. 
 There was additional code added further down the style CSS sheet that should have been deleted. 
 
-* When testing the Essentials page, I observed with the style of photograph used and with the peaches aligining to the left and 
-the text aliging to the right this was easily readable on larger screen given the neutral background, however on smaller devices
-a text shadow was required to allow the text to be read. This was tested on Moto G4, Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus,
-I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop.
+* When testing the Essentials page, a text shadow was required to allow the text to be read on smaller devices. This was tested on Moto G4,
+ Galaxy S5, Pixel 2 & 2XL, I-phone 5/SE/6/7/8/8 Plus,I-phone X, I-pad, I-pad Pro, Surface Duo, Galaxy Fold & Desktop.
 
 * When testing my contact page by entering dummy information. I noted that I had incorrectly put email in for the input type for 
 the enter your first and last name section. This was changed to text. I also noted that I had incorrectly placed the required format 
