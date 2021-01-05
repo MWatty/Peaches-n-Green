@@ -321,41 +321,11 @@ button.center-button {
   }
 }
 
-/*@media only screen and (max-width: 600px) {
-  .carousel-desc {
-    display: none;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .about-title {
-    text-align: center;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .pantry-item {
-    text-shadow: 1px 1px #505050;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .pantry-ess {
-    text-shadow: 1px 1px #505050;
-  }
-}*/
-
 @media only screen and (min-width: 280px) {
   .navbar-brand{
     font-size: 20px;
   }
 }
-
-/*@media only screen and (max-width: 600px) {
-  .form-inline {
-    margin: 15px;
-  }
-}*/
 
 @media only screen and (min-width: 1020px) {
   .nav-item {
