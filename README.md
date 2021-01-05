@@ -64,7 +64,7 @@ A sample of screenshots below reflecting the above user stories:
 
 ##### ***Contact*** :
 
-![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/sscontact.png "Contact Page")
+![Contact Page](https://github.com/MWatty/Peaches-n-Green/blob/master/assets/images/ssccontact.png "Contact Page")
 
 ##### ***Social*** ***Media*** :
 
